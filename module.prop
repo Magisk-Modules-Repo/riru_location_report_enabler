@@ -1,0 +1,6 @@
+id=riru_location_report_enabler
+name=Riru - Location Report Enabler
+version=v9.1
+versionCode=7
+author=Rikka
+description=Enable Google location report by hook system_property_get (and android::base::GetProperty for API 28+). Requires Riru - Core v19 or above installed.

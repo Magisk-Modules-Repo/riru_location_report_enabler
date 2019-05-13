@@ -1,0 +1,6 @@
+name=Location Report Enabler
+version=v9.1
+versionCode=7
+author=Rikka
+description=Enable Google location report by hook system_property_get (and android::base::GetProperty for API 28+).
+api=4
