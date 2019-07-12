@@ -32,3 +32,9 @@ and the return value will be changed
   ```
 
   **Don't forget `-n`, or the return data will contain a newline**
+  
+## Changelog
+
+### v9.2 (11)
+
+- Fix not work on Android Q Beta 5 (if "process pool" enabled)
