@@ -35,6 +35,10 @@ and the return value will be changed
   
 ## Changelog
 
+### v9.3 (12)
+
+- Fix not work for apps installed in external storage when using Adoptable Storage
+
 ### v9.2 (11)
 
 - Fix not work on Android Q Beta 5 (if "process pool" enabled)
