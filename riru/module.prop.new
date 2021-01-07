@@ -1,6 +1,6 @@
 name=Location Report Enabler
-version=v10.0
-versionCode=13
+version=v10.2
+versionCode=15
 author=Rikka
 description=Enable Google Feed & Timeline & Location reprot in unsupported regions by changing system properties in related packages.
 minApi=9
