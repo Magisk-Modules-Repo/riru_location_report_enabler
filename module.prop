@@ -1,6 +1,6 @@
 id=riru_location_report_enabler
 name=Riru - Location Report Enabler
-version=v10.2
-versionCode=15
+version=v11.0.0.r50.0b1d37f
+versionCode=50
 author=Rikka
 description=Enable Google Feed & Timeline & Location reprot in unsupported regions by changing system properties in related packages.
